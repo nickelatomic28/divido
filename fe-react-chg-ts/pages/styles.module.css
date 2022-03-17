@@ -1,0 +1,84 @@
+
+.label {
+    font-size: 1.2em;
+    font-weight: bold;
+    display: flex;
+    /* margin-bottom: 5px; */
+    margin-right: 10px;
+    width: 20%;
+  }
+
+
+.errorMessage {
+    color: red;
+}
+
+.text_fields {
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.contractCheck {
+    width: 20px;
+    height: 20px;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 20px 2px rgb(0 0 0 / 40%);
+  }
+.lenderName {
+    color: green;
+    font-size: 2.2em;
+    font-weight: bold;
+    margin: auto;
+    padding: 15px;
+}
+.item {
+    display: flex;
+    height: 70px;
+}
+
+.submitbtn {
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 16px;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 118, 210);
+    cursor: pointer;
+}
+
+.disablesbtn {
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 16px;
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 0.26);
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.12);
+}
