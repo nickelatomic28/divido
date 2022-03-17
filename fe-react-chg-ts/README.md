@@ -11,6 +11,19 @@ There are three banks requesting an Application Form:
 - Bank of Azeroth
 - Naboo Bank
 - Middle Earth Bank
+- 
+![image](https://user-images.githubusercontent.com/42133841/158845038-673c6198-63c5-4db7-bb7f-0c7e9333565b.png)
+
+![image](https://user-images.githubusercontent.com/42133841/158845399-a3608b8d-0558-4809-808c-b3a922ff3680.png)
+
+![image](https://user-images.githubusercontent.com/42133841/158845505-040640ff-7d00-4f5f-99d9-10145488e220.png)
+
+![image](https://user-images.githubusercontent.com/42133841/158845632-1612f7b0-62fb-40fe-a8d1-e05f21d27fc3.png)
+
+![image](https://user-images.githubusercontent.com/42133841/158845878-f8f602a6-081b-4e86-8c13-c0997f5c0757.png)
+or
+![image](https://user-images.githubusercontent.com/42133841/158845804-cbb8ceff-f160-4701-9701-151a3028831f.png)
+
 
 ## Pre-requisites
 
